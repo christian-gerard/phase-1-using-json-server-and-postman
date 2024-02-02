@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": "faa9"
+    },
+    {
+      "id": "f5c8",
+      "title": "Third Article",
+      "content": "Another example!"
+    },
+    {
+      "id": "833a",
+      "title": "Third Article",
+      "content": "EXAMPLE EXAMPLE!"
+    },
+    {
+      "id": "0444",
+      "content": "EXAMPLE EXAMPLE!"
+    },
+    {
+      "id": "f7c5",
+      "content": "EXAMPLE EXAMPLE!",
+      "lapse": "RELAPSE BEYOND MEDALS"
+    },
+    {
+      "id": "9c63",
+      "content": "EXAMPLE EXAMPLE!",
+      "lapse": "RELAPSE BEYOND MEDALS",
+      "strange": "STRANGE TIMES",
+      "DONT": "OK OK OK OK OIK "
+    }
+  ]
+}
